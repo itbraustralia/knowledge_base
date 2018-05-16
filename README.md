@@ -1,9 +1,24 @@
-# Perguntas Frequentes
+### ITBR Australia
+Nós somos o ITBR Australia, uma comunidade de brazileiros que trabalham em TI na Austrália e tem como objetivo reunir os brazucas que estão aqui ou que estão se planejando em migrar para cá.
+Nosso objetivo é difundir conhecimento sobre os passos para imigração e também realizar eventos tecnicos para reunir a comunidade.
 
-Se voce chegou ate aqui, provavelmente e’ pq esta’ participando do nosso grupo **IT Australia** no Whatsapp ou Facebook.. se ainda nao esta’, pode entrar nele clicando [aqui para WhatsApp (grupo IT Australia)](https://chat.whatsapp.com/7MaIqbunbhm2iCojSmozag) ou [aqui para Facebook  
-](https://web.facebook.com/groups/pitSydney/)Caso voce ja esteja morando por aqui, temos outros 2 grupos que facilitam o encontro dos participantes, um de [Melbourne](https://chat.whatsapp.com/BCLidRBMWDg5ol8xgLnmNE) e outro de [Brisbane](https://chat.whatsapp.com/Iz7ZEIXoDINJVvDzZLzTZM). E’ interessante ressaltar que os grupos das cidades sao utilizados mais para encontros, networking e jobs.. enquanto o grupo principal fica com assuntos sobre imigracao e dicas gerais.  
-enfim, como nossos assuntos sao sempre lotados de dicas, quem vai entrando no grupo acaba nao lendo o que ja foi perguntado, e os assuntos acabam sendo repetidos. nao que isso seja ruim, mas as vezes alguma pergunta se perde e nao e’ respondida..  
-pensando nisso criamos esse link.. abaixo segue uma lista de perguntas e respostas mais comuns no grupo.. e sempre que possivel isso vai sendo atualizado.. bora la’ entao..
+### Links Importantes
+* [ITBR Facebook Page](https://www.facebook.com/itbraustralia/)
+
+* [ITBR Youtube Channel](https://www.youtube.com/channel/UC82vsPSbjK4yEy_UdKZ8wVg/)
+
+* [ITBR Facebook Group](https://www.facebook.com/groups/itbraustralia/)
+
+* [Profissionais de IT na Australia Facebook Group](https://web.facebook.com/groups/pitSydney/)
+* [Grupos de WhatsApp](links.md)
+
+
+
+### Perguntas Frequentes
+
+Se voce chegou ate aqui, provavelmente é pq está participando do nosso grupo **IT Australia** no Whatsapp ou Facebook. Se ainda nao está, pode entrar nele clicando nos links da seção Links Importantes. Caso voce ja esteja morando por aqui, temos outros 2 grupos que facilitam o encontro dos participantes, um de [Melbourne](https://chat.whatsapp.com/BCLidRBMWDg5ol8xgLnmNE) e outro de [Brisbane](https://chat.whatsapp.com/Iz7ZEIXoDINJVvDzZLzTZM). É interessante ressaltar que os grupos das cidades sao utilizados mais para encontros, networking e jobs. Enquanto o grupo principal fica com assuntos sobre imigracao e dicas gerais.  
+Enfim, como nossos assuntos sao sempre lotados de dicas, quem vai entrando no grupo acaba nao lendo o que ja foi perguntado, e os assuntos acabam sendo repetidos. nao que isso seja ruim, mas as vezes alguma pergunta se perde e nao é respondida.  
+Pensando nisso criamos esse link. Abaixo segue uma lista de perguntas e respostas mais comuns no grupo. E sempre que possivel isso vai sendo atualizado.. bora lá entao..
 
 ## Perguntas sobre IMIGRACAO
 
