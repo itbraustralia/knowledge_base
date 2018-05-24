@@ -2,6 +2,7 @@
 Nós somos o ITBR Australia, uma comunidade de brazileiros que trabalham em TI na Austrália e tem como objetivo reunir os brazucas que estão aqui ou que estão se planejando em migrar para cá.
 Nosso objetivo é difundir conhecimento sobre os passos para imigração e também realizar eventos tecnicos para reunir a comunidade.
 
+
 ### Links Importantes
 * [ITBR Facebook Page](https://www.facebook.com/itbraustralia/)
 
