@@ -42,3 +42,5 @@ Grupos de tecnologias especificas ou assuntos específicos:
 * [PHP - IT.BR Australia](https://chat.whatsapp.com/4OBhUXw8LfGBk0tGIMojD2)
 
 * [Python - IT.BR Australia](https://chat.whatsapp.com/4ff2faMJFDfDkHvrXb3wWP)
+
+* [Women in Tech - IT.BR Australia](https://chat.whatsapp.com/IP6R64izSlVDlbl8QHJTa2)
